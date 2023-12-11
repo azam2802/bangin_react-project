@@ -1,0 +1,74 @@
+.Service section:first-child {
+  background-color: #016a70;
+  padding-top: 20px;
+  padding-bottom: 110px;
+  color: #fff;
+  text-align: center;
+}
+
+.Service .Header {
+  margin-bottom: 50px;
+}
+
+.Service .title h3 {
+  font-size: 28px;
+  font-family: Poppins;
+  font-weight: 600;
+}
+
+.Service .title h1 {
+  font-size: 48px;
+  font-family: Poppins;
+  font-weight: 700;
+  margin-bottom: 60px;
+}
+
+.Service .waste-flow {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Service .waste-flow img {
+  width: 140px;
+}
+
+.Service .col-2 p {
+  text-wrap: balance;
+  width: 200px;
+}
+
+.Service .news {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Service .news .col-4 {
+  width: 51%;
+}
+
+.Service .news .col-4 img {
+  width: 100%;
+}
+
+.Service .news .col-6 {
+  width: 47%;
+}
+
+.Service .news .col-6 h3 {
+  font-size: 28px;
+  font-family: Poppins;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.Service .news .col-6 p {
+  font-size: 16px;
+  font-family: Poppins;
+  font-weight: 400;
+}
+
+.Service .row_news{
+  margin: 120px 0;
+  flex-wrap: wrap;
+  gap: 80px;
+}

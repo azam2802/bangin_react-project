@@ -1,0 +1,90 @@
+.AboutUs .about-section1 {
+  background-color: #016a70;
+  padding: 20px 0;
+}
+
+.AboutUs .aboutMe-1 {
+  margin-top: 150px;
+  margin-bottom: 100px;
+  color: #fff;
+}
+
+.aboutMe-1 .row {
+  justify-content: space-between;
+}
+
+.aboutMe-1 .row .col-6:first-child {
+  width: 40%;
+}
+
+.aboutMe-1 .col-6:last-child {
+  width: 58%;
+}
+
+.aboutMe-1 .row .col-6:first-child img {
+  width: 100%;
+}
+
+.aboutMe-1 h3 {
+  margin-bottom: 10px;
+  font-size: 28px;
+  font-family: Poppins;
+  font-weight: 600;
+  color: #ffffdd;
+}
+
+.aboutMe-1 h1 {
+  color: #ffffdd;
+  font-size: 44px;
+  font-family: Poppins;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.aboutMe-1 p {
+  font-size: 16px;
+  font-family: Poppins;
+  font-weight: 400;
+}
+
+.aboutMe-2 .row .col-6:first-child {
+  width: 55%;
+}
+
+.aboutMe-2 .col-6:last-child {
+  width: 40%;
+}
+
+.aboutMe-2 .row {
+  justify-content: space-between;
+}
+
+.aboutMe-2 {
+  padding: 150px 0;
+}
+
+.aboutMe-2 .row .col-6:first-child img {
+  width: 100%;
+}
+
+.aboutMe-2 h3 {
+  margin-bottom: 10px;
+  font-size: 28px;
+  font-family: Poppins;
+  font-weight: 600;
+  color: #016a70;
+}
+
+.aboutMe-2 h1 {
+  color: #016a70;
+  font-size: 44px;
+  font-family: Poppins;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.aboutMe-2 p {
+  font-size: 16px;
+  font-family: Poppins;
+  font-weight: 400;
+}

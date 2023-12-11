@@ -1,0 +1,42 @@
+.Section1 {
+  background-color: #016a70;
+  padding: 20px 0;
+}
+
+.Section1 .row-section1 {
+  gap: 95px;
+  align-items: center;
+  padding: 50px 60px;
+}
+
+.Section1 .col-8 {
+  width: 60%;
+  color: #fff;
+}
+
+.Section1 .col-4 img {
+  width: 400px;
+}
+
+.Section1 .col-8 h1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.Section1 .col-8 button {
+  padding: 5px 20px;
+  color: white;
+  font-size: 16px;
+  font-family: Poppins;
+  font-weight: 600;
+  border-radius: 10px;
+  background-color: transparent;
+  border: 1px solid #fff;
+  margin-top: 30px;
+}
+
+
+.Section1 .col-8 p{
+	font-weight: 400;
+	font-size: 14px;
+}

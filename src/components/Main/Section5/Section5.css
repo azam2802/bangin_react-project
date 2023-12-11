@@ -1,0 +1,47 @@
+.Section5 {
+  margin-top: 150px;
+}
+
+.Section5 .row {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Section5 .col-6:last-child {
+  width: 50%;
+}
+
+.Section5 .col-6:first-child {
+  position: relative;
+  width: 30%;
+}
+
+.Section5 .review {
+  box-shadow: 0px 2px 3.5px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  padding: 30px 40px;
+}
+
+.Section5 .review p:first-child {
+  margin-bottom: 70px;
+}
+
+.Section5 .blur-circle {
+  background: #016a70;
+  box-shadow: 92px 2px 2px;
+  border-radius: 9999px;
+  filter: blur(102px);
+  width: 100px;
+  height: 130px;
+  position: absolute;
+  left: -40px;
+  top: 0;
+}
+
+.Section5 .sponsors{
+	margin-top: 100px;
+	display: flex;
+	align-items: center;
+	gap: 85px;
+	justify-content: center;
+}
